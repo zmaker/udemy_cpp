@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735031613 source:c:\users\paolo\desktop\github\udemy_cpp\l18\p01-max-casuale\main.cpp
+	<iostream>
+	<cstdlib>
+
