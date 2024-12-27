@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735289522 source:c:\users\paolo\desktop\github\udemy_cpp\l25\p01_indovina_numero\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

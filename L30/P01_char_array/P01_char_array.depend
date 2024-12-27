@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735296321 source:c:\users\paolo\desktop\github\udemy_cpp\l30\p01_char_array\main.cpp
+	<iostream>
+	<cstring>
+
