@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737818133 source:c:\users\paolo\desktop\github\udemy_cpp\l68\p01_errori\main.cpp
+	<iostream>
+	<stdexcept>
+	<cassert>
+

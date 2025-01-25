@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737811750 source:c:\users\paolo\desktop\github\udemy_cpp\l64\p02_leggifile\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
