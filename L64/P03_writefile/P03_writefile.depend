@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737812109 source:c:\users\paolo\desktop\github\udemy_cpp\l64\p03_writefile\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

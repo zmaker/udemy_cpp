@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738318319 source:c:\users\paolo\desktop\github\udemy_cpp\l69\p01_thread\main.cpp
+	<iostream>
+	<thread>
+	<ctime>
+
